@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Ponticelli-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandroponticelli/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=A5BE00)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=A5BE00)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=A5BE00)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=A5BE00)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=A5BE00)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=A5BE00)
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=apple&logoColor=white&color=A5BE00)
 ![](https://img.shields.io/badge/Editor-Jetbrains_Rider-informational?style=flat&logo=jetbrains-idea&logoColor=white&color=A5BE00)
