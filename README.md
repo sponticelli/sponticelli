@@ -51,7 +51,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sponticelli&theme=calm)](https://git.io/streak-stats)
 
 <!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sponticelli" alt="sponticelli" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=sponticelli&theme=nord" alt="sponticelli" />
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sponticelli.visitor-badge)
